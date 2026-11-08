@@ -40,7 +40,6 @@
     "translate-google-api": "latest",
     "cheerio": "latest",
     "seedr": "latest",
-    "@ffmpeg-installer/ffmpeg": "latest",
     "@ffprobe-installer/ffprobe": "latest",
     "wikipedia": "latest",
     "form-data": "4.0.0",
