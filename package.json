@@ -27,6 +27,7 @@
     "sequelize": "latest",
     "buffer": "latest",
     "user-agents":"latest",
+    "@ffmpeg-installer/ffmpeg":"latest",
     "sqlite3": "^5.1.6",
     "stream": "latest",
     "file_size_url": "^1.0.4",
